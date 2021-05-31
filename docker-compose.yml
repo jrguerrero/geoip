@@ -1,0 +1,13 @@
+version: '3.9'
+services:
+    geoip:
+        container_name: geoip
+        image: geoip
+        volumes:
+            - type: bind
+              source: $PWD/files/dnsnames.txt
+              target: /tmp/dnsnames.txt
+            - type: bind
+              source: $PWD/files/dnslocation.txt
+              target: /tmp/dnslocation.txt
+        entrypoint: ["/docker-entrypoint.sh"]

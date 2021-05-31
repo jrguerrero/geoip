@@ -1,0 +1,69 @@
+thumbs2.ebaystatic.com:
+GeoIP Country Edition: ES, Spain
+mountaineerpublishing.com:
+GeoIP Country Edition: US, United States
+www.mediafire.com:
+GeoIP Country Edition: US, United States
+s-static.ak.fbcdn.net:
+GeoIP Country Edition: can't resolve hostname ( s-static.ak.fbcdn.net )
+GeoIP Country V6 Edition: can't resolve hostname ( s-static.ak.fbcdn.net )
+lachicabionica.com:
+GeoIP Country Edition: can't resolve hostname ( lachicabionica.com )
+GeoIP Country V6 Edition: can't resolve hostname ( lachicabionica.com )
+www.freemarket.com:
+GeoIP Country Edition: ES, Spain
+sip.hotmail.com:
+GeoIP Country Edition: can't resolve hostname ( sip.hotmail.com )
+GeoIP Country V6 Edition: can't resolve hostname ( sip.hotmail.com )
+www.inrammicrocloud.com:
+GeoIP Country Edition: can't resolve hostname ( www.inrammicrocloud.com )
+GeoIP Country V6 Edition: can't resolve hostname ( www.inrammicrocloud.com )
+google.com:
+GeoIP Country Edition: US, United States
+cache.defamer.com:
+GeoIP Country Edition: can't resolve hostname ( cache.defamer.com )
+GeoIP Country V6 Edition: can't resolve hostname ( cache.defamer.com )
+developers.facebook.com:
+GeoIP Country Edition: ES, Spain
+www.eucarvet.eu:
+GeoIP Country Edition: can't resolve hostname ( www.eucarvet.eu )
+GeoIP Country V6 Edition: can't resolve hostname ( www.eucarvet.eu )
+mail.mobilni-telefony.biz:
+GeoIP Country Edition: NL, Netherlands
+microsoft-powerpoint-2010.softonic.it:
+GeoIP Country Edition: US, United States
+profile.ak.fbcdn.net:
+GeoIP Country Edition: can't resolve hostname ( profile.ak.fbcdn.net )
+GeoIP Country V6 Edition: can't resolve hostname ( profile.ak.fbcdn.net )
+www.zunescene.mobi:
+GeoIP Country Edition: US, United States
+ads.smowtion.com:
+GeoIP Country Edition: US, United States
+196.127.197.94.in-addr.arpa:
+GeoIP Country Edition: can't resolve hostname ( 196.127.197.94.in-addr.arpa )
+GeoIP Country V6 Edition: can't resolve hostname ( 196.127.197.94.in-addr.arpa )
+armandi.ru:
+GeoIP Country Edition: RU, Russian Federation
+solofarandulaperu.blogspot.com:
+GeoIP Country Edition: US, United States
+m.addthisedge.com:
+GeoIP Country Edition: ES, Spain
+ssl.google-analytics.com:
+GeoIP Country Edition: US, United States
+243.35.149.83.in-addr.arpa:
+GeoIP Country Edition: can't resolve hostname ( 243.35.149.83.in-addr.arpa )
+GeoIP Country V6 Edition: can't resolve hostname ( 243.35.149.83.in-addr.arpa )
+105.138.138.201.in-addr.arpa:
+GeoIP Country Edition: can't resolve hostname ( 105.138.138.201.in-addr.arpa )
+GeoIP Country V6 Edition: can't resolve hostname ( 105.138.138.201.in-addr.arpa )
+www.reuters.com:
+GeoIP Country Edition: US, United States
+mail.sodoit.com:
+GeoIP Country Edition: US, United States
+www.download.windowsupdate.com:
+GeoIP Country Edition: US, United States
+resquare.ca:
+GeoIP Country Edition: can't resolve hostname ( resquare.ca )
+GeoIP Country V6 Edition: can't resolve hostname ( resquare.ca )
+www.ingrammicrocloud.com:
+GeoIP Country Edition: ES, Spain
